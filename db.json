@@ -1,7 +1,7 @@
 {
     "gastos": [
         {
-            "date": 1,
+            "date": "1",
             "type": "Atendente",
             "value": 623
           },
