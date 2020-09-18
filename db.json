@@ -84,6 +84,86 @@
             "date": "6",
             "type": "DJ",
             "value": 153
+          },
+          {
+            "date": "6",
+            "type": "Garçom",
+            "value": 27
+          },
+          {
+            "date": "7",
+            "type": "Atendente",
+            "value": 251
+          },
+          {
+            "date": "7",
+            "type": "DJ",
+            "value": 963
+          },
+          {
+            "date": "7",
+            "type": "Garçom",
+            "value": 106
+          },
+          {
+            "date": "8",
+            "type": "Atendente",
+            "value": 978
+          },
+          {
+            "date": "8",
+            "type": "DJ",
+            "value": 367
+          },
+          {
+            "date": "8",
+            "type": "Garçom",
+            "value": 87
+          },
+          {
+            "date": "9",
+            "type": "Atendente",
+            "value": 880
+          },
+          {
+            "date": "9",
+            "type": "DJ",
+            "value": 956
+          },
+          {
+            "date": "9",
+            "type": "Garçom",
+            "value": 88
+          },
+          {
+            "date": "15",
+            "type": "Atendente",
+            "value": 606
+          },
+          {
+            "date": "15",
+            "type": "DJ",
+            "value": 78
+          },
+          {
+            "date": "15",
+            "type": "Garçom",
+            "value": 207
+          },
+          {
+            "date": "18",
+            "type": "Atendente",
+            "value": 318
+          },
+          {
+            "date": "18",
+            "type": "DJ",
+            "value": 188
+          },
+          {
+            "date": "18",
+            "type": "Garçom",
+            "value": 48
           }
     ],
     "comments": [
