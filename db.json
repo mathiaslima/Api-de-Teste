@@ -151,13 +151,16 @@
             "value": 48
           }
     ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 },
-      { "id": 3, "body": "some comment", "postId": 1 },
-      { "id": 4, "body": "some comment", "postId": 1 }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+    "dados": {
+      "plano": "Premium",
+      "saldo": "R$ 1200,00",
+      "creditosDeEntrevista": "10",
+      "cartaoCadastrado": "Visa ****0026"
+    },
+    "compromissos": [
+      {"id": 1,"jobs": 1, "when": "2h"},
+      {"id": 2,"jobs": 4, "when": "24h"},
+      {"id": 3,"jobs": 30, "when": "2 meses"},
+      {"id": 4,"jobs": 280, "when": "12 meses"}
+    ]
   }
