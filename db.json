@@ -16,6 +16,21 @@
       "uri": "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/sobrinho/sobrinho.jpeg"
     },
     {
+      "id": 5,
+      "name": "Lanchonete do Sobrinho",
+      "image": "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/sobrinho/sobrinho.jpeg",
+      "description": "Lanche, espetinho, panquecas, bebida, etc.",
+      "images": [
+        "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/sobrinho/sobrinho.jpeg"
+      ],
+      "address": "Palco",
+      "phone": "84999588067",
+      "email": "",
+      "website": "",
+      "instagram": "",
+      "uri": "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/sobrinho/sobrinho.jpeg"
+    },
+    {
       "id": 4,
       "name": "Marizal",
       "image": "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/marizal/1.jpeg",
