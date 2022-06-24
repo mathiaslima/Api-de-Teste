@@ -13,7 +13,7 @@
         "email": "",
         "website": "",
         "instagram": "",
-        "uri": "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/sobrinho/sobrinho.jpeg",
+        "uri": "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/sobrinho/sobrinho.jpeg"
     },
     {
         "id": 4,
@@ -32,7 +32,7 @@
         "email": "",
         "website": "",
         "instagram": "",
-        "uri": "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/marizal/1.jpeg",
+        "uri": "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/marizal/1.jpeg"
     },
     {
         "id": 2,
@@ -48,7 +48,7 @@
         "email": "",
         "website": "",
         "instagram": "",
-        "uri": "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/posto-lucrecia/posto.jpeg",
+        "uri": "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/posto-lucrecia/posto.jpeg"
     },
     {
         "id": 3,
@@ -65,7 +65,7 @@
         "email": "",
         "website": "",
         "instagram": "",
-        "uri": "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/quero-mais/quero-mais-1.jpeg",
+        "uri": "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/quero-mais/quero-mais-1.jpeg"
     }
     ],
     "gastos": [
