@@ -66,170 +66,24 @@
       "website": "",
       "instagram": "",
       "uri": "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/quero-mais/quero-mais-1.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Burguer friends",
+      "image": "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/burger-friends/1.jpeg",
+      "description": "Trabalhamos com espetinhos, lanches e bebidas em geral",
+      "images": [
+        "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/burger-friends/1.jpeg",
+        "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/burger-friends/2.jpeg",
+        "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/burger-friends/3.jpeg",
+        "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/burger-friends/4.jpeg"
+      ],
+      "address": "Praça da juventude",
+      "phone": "84999865984",
+      "email": "",
+      "website": "",
+      "instagram": "",
+      "uri": "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/burger-friends/1.jpeg"
     }
-  ],
-  "gastos": [
-    {
-      "date": "1",
-      "type": "Atendente",
-      "value": 623
-    },
-    {
-      "date": "1",
-      "type": "DJ",
-      "value": 208
-    },
-    {
-      "date": "1",
-      "type": "Garçom",
-      "value": 82
-    },
-    {
-      "date": "3",
-      "type": "Atendente",
-      "value": 108
-    },
-    {
-      "date": "3",
-      "type": "DJ",
-      "value": 916
-    },
-    {
-      "date": "3",
-      "type": "Garçom",
-      "value": 89
-    },
-    {
-      "date": "4",
-      "type": "Atendente",
-      "value": 268
-    },
-    {
-      "date": "4",
-      "type": "DJ",
-      "value": 512
-    },
-    {
-      "date": "4",
-      "type": "Garçom",
-      "value": 282
-    },
-    {
-      "date": "5",
-      "type": "Atendente",
-      "value": 411
-    },
-    {
-      "date": "5",
-      "type": "DJ",
-      "value": 281
-    },
-    {
-      "date": "5",
-      "type": "Garçom",
-      "value": 119
-    },
-    {
-      "date": "6",
-      "type": "Atendente",
-      "value": 890
-    },
-    {
-      "date": "6",
-      "type": "DJ",
-      "value": 153
-    },
-    {
-      "date": "6",
-      "type": "Garçom",
-      "value": 27
-    },
-    {
-      "date": "7",
-      "type": "Atendente",
-      "value": 251
-    },
-    {
-      "date": "7",
-      "type": "DJ",
-      "value": 963
-    },
-    {
-      "date": "7",
-      "type": "Garçom",
-      "value": 106
-    },
-    {
-      "date": "8",
-      "type": "Atendente",
-      "value": 978
-    },
-    {
-      "date": "8",
-      "type": "DJ",
-      "value": 367
-    },
-    {
-      "date": "8",
-      "type": "Garçom",
-      "value": 87
-    },
-    {
-      "date": "9",
-      "type": "Atendente",
-      "value": 880
-    },
-    {
-      "date": "9",
-      "type": "DJ",
-      "value": 956
-    },
-    {
-      "date": "9",
-      "type": "Garçom",
-      "value": 88
-    },
-    {
-      "date": "15",
-      "type": "Atendente",
-      "value": 606
-    },
-    {
-      "date": "15",
-      "type": "DJ",
-      "value": 78
-    },
-    {
-      "date": "15",
-      "type": "Garçom",
-      "value": 207
-    },
-    {
-      "date": "18",
-      "type": "Atendente",
-      "value": 318
-    },
-    {
-      "date": "18",
-      "type": "DJ",
-      "value": 188
-    },
-    {
-      "date": "18",
-      "type": "Garçom",
-      "value": 48
-    }
-  ],
-  "dados": {
-    "plano": "Premium",
-    "saldo": "R$ 1200,00",
-    "creditosDeEntrevista": "10",
-    "cartaoCadastrado": "Visa ****0026"
-  },
-  "compromissos": [
-    { "id": 1, "jobs": 1, "when": "2h" },
-    { "id": 2, "jobs": 4, "when": "24h" },
-    { "id": 3, "jobs": 30, "when": "2 meses" },
-    { "id": 4, "jobs": 280, "when": "12 meses" }
   ]
 }
