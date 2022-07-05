@@ -70,20 +70,20 @@
     {
       "id": 6,
       "name": "Burguer friends",
-      "image": "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/burger-friends/1.jpeg",
+      "image": "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/burguer-friends/1.jpeg",
       "description": "Trabalhamos com espetinhos, lanches e bebidas em geral",
       "images": [
-        "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/burger-friends/1.jpeg",
-        "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/burger-friends/2.jpeg",
-        "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/burger-friends/3.jpeg",
-        "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/burger-friends/4.jpeg"
+        "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/burguer-friends/1.jpeg",
+        "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/burguer-friends/2.jpeg",
+        "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/burguer-friends/3.jpeg",
+        "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/burguer-friends/4.jpeg"
       ],
       "address": "Praça da juventude",
       "phone": "84999865984",
       "email": "",
       "website": "",
       "instagram": "",
-      "uri": "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/burger-friends/1.jpeg"
+      "uri": "https://raw.githubusercontent.com/mathiaslima/Api-de-Teste/master/companies/burguer-friends/1.jpeg"
     }
   ]
 }
